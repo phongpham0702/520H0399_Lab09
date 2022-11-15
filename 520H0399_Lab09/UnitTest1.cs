@@ -1,3 +1,5 @@
+using StudentServiceLib;
+
 namespace _520H0399_Lab09
 {
     [TestClass]
